@@ -1,4 +1,4 @@
 elof.github.io
 ==============
 
-Landing page. more at http://elof.me
+Just a list of projects and stuff, more sillyness at http://taco.computer
